@@ -1,0 +1,17 @@
+1000,All courses combined package for DATA ANALYSIS,1999.9,learning
+1001,calculator,34.50,electronics
+1002,Machine learning course,425.95,learning
+1003,Roadmap to python,157.95,learning
+1004,Mathematics for machine learning,245.99,learning
+1005,Statistical analysis,295.99,learning
+1006,AI Fundamentals,75.95,books
+1007,Cloud Computing,49.99,books
+1008,Deep Learning,68.50,books
+1009,T-shirt for coders,50.99,clothing
+1010,All courses combined package for Philosophy,1999.9,learning
+1011,Art and Philosophy by Mukund Iyenger,999.9, books
+1012,My life My rules  40hrs by Mukund Iyenger,200,learning
+1013,Discipline mastering, 49.9,books
+1014,Life of Pie, 199,movie
+1015,Correlation among religions, 999.9,books
+1016,Apple Gift card for e-learning,250,voucher
